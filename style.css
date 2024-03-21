@@ -1,0 +1,54 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    background-color: bisque;
+    font-size: 28px;
+    color: darkred;
+}
+
+.title {
+    font-size: 28px;
+}
+
+h1 {
+    background-color: beige;
+    color: rgb(70, 70, 70);
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2 {
+    background-color: beige;
+    color: rgb(70, 70, 70);
+    font-size: 30px;
+    font-weight: 700;
+}
+h3 {
+    background-color: beige;
+    color: rgb(70, 70, 70);
+    font-size: 25px;
+    font-weight: 650;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+p {
+    background-color: beige;
+    color: darkred;
+}
+
+ul {
+    background-color: beige;
+    color: darkgreen;
+}
+
+ol {
+    background-color: beige;
+    color: darkgreen;
+}
