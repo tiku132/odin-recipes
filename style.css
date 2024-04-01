@@ -39,6 +39,7 @@ h3 {
 img {
     height: 300px;
     width: auto;
+    padding-left: 64px;
 }
 
 p {
