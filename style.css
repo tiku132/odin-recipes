@@ -18,6 +18,7 @@ h1 {
     color: rgb(70, 70, 70);
     font-size: 50px;
     font-weight: 900;
+    padding: 16px;
 }
 
 h2 {
@@ -25,12 +26,14 @@ h2 {
     color: rgb(70, 70, 70);
     font-size: 30px;
     font-weight: 700;
+    padding: 12px;
 }
 h3 {
     background-color: beige;
     color: rgb(70, 70, 70);
     font-size: 25px;
     font-weight: 650;
+    padding: 8px;
 }
 
 img {
@@ -41,14 +44,19 @@ img {
 p {
     background-color: beige;
     color: darkred;
+    text-align: center;
 }
 
 ul {
     background-color: beige;
     color: darkgreen;
+    padding: 32px;
+    margin: 24px;
 }
 
 ol {
     background-color: beige;
     color: darkgreen;
+    padding: 32px;
+    margin: 24px;
 }
